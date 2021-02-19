@@ -1,7 +1,7 @@
 # Password Generator
 
 ## Description:
-This application generates a randomized password including numbers, letters, and symbols of your choice. Users are prompted to input what length of password and characters they'd like to include. Once all prompts are completed a password is generated into 
+This application generates a randomized password including numbers, letters, and symbols of your choice. Users are prompted to input what length of password and characters they'd like to include. Once all prompts are completed a password is generated into the input box
 
 ## Table of Contents
 
